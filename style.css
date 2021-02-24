@@ -1,0 +1,21 @@
+/*
+ Theme Name:   Blossom Shop Child
+ Description:  Dette er et Child Theme rebrand af blossom-shop
+ Author:       John Doe
+ Template:     blossom-shop
+ Version:      1.1.1
+*/
+
+.header-main{
+  background-color: #c5ab9a;
+}
+
+.custom-logo-link{
+  margin-left: -10%;
+  margin-top: 2%;
+}
+
+.header-t{
+  background-color: #F2EFEB;
+}
+
